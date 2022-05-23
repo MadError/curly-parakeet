@@ -1,4 +1,4 @@
-# Butterfly classfication
+# Butterfly classification
 
 Intro. to Artificial Intelligence final project
 
