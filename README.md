@@ -3,7 +3,7 @@
 Intro. to Artificial Intelligence final project
 
 
-* Algorithm : VGG-16, CNN
-* Dataset : Butterfly Dataset with ten categories (species) from kaggle :
-            https://www.kaggle.com/datasets/veeralakrishna/butterfly-dataset/code?datasetId=471219&sortBy=voteCount
+* Algorithm : VGG-16, MobilenetV2
+* Dataset : Butterfly Dataset with 75 categories (species) from kaggle :
+            https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species
 
