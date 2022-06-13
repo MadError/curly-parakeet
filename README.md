@@ -1,6 +1,6 @@
 # Butterfly classification
 
-Intro. to Artificial Intelligence final project
+Intro. to Artificial Intelligence final project -- Group 7
 
 
 * Algorithm : VGG-16, MobilenetV2
